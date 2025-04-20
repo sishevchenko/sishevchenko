@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning Python, JavaScript, Rust
+- 📫 How to reach me: [Telegram](https://t.me/s_i_shevchenko)
+- 👨‍💻 You can find all of my projects at [my repositories](https://github.com/sishevchenko?tab=repositories)
+
 <!--
 **sishevchenko/sishevchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
